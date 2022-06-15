@@ -1,0 +1,24 @@
+# Customer base
+1. Determine the customer base
+
+Approaches:
+1a. Top 3 customers with the most rental
+1b. The # of active customer (country)
+1c. The # of inactive customers (country)
+
+# Stores info
+2. Determine which store are more successful
+
+Approaches:
+2a. Identity of store
+2b. The # of rental orders
+2c. The monthly and total revenue of the store
+
+# Actors and movies
+3. Determine movies rented most often and most famous actor (highest frequency)
+
+Approaches:
+3a. Top genres movie (group by 3)
+3b. Films that have never been rented (zero frequency)
+3c. The rented percentage of each rating
+3d. Fiml frequency of each actor
